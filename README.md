@@ -5,7 +5,7 @@ Pick and Place using Franka Emika 6 DOF robot
 
 ## Scope
 
-This project aims to leverage concepts from the course to enable a 7-DOF PANDA arm to pick static and dynamic blocks and place them in a desired goal position using a Geometric Based Inverse Kinematics (IK) solver. The project involves testing in simulation and hardware to ensure performance under varying conditions.
+This project aims to leverage concepts from the course to enable a 7-DOF PANDA arm to pick static and dynamic blocks and place them in a desired goal position using a Geometric Based Inverse Kinematics (IK) solver. The project involves testing in simulation and hardware to ensure performance under varying conditions. This code and strategy won the pick and place competition among 100 students participated in the challenge.
 
 ## Method
 
